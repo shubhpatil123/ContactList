@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+ul { display:table; margin:0 auto;}
+
+button {
+    margin:auto;
+    display:block;
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+  background-color: sandybrown;
+  }
+
+input {
+    margin-left: 45%;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    justify-content: center;
+    border-style: none none solid none;
+  }
